@@ -81,6 +81,6 @@
 
 После запуска приложения и ввода нескольких сообщений, файл журнала (например, `test_file.log`) будет содержать записи следующего вида:
 ```
-[2023-10-10 12:34:56][INFO] This is an informational message.
-[2023-10-10 12:34:57][WARNING] This is a warning.
-[2023-10-10 12:34:58][ERROR] This is an error message.
+[2023-10-10 12:34:56] [INFO] This is an informational message.
+[2023-10-10 12:34:57] [WARNING] This is a warning.
+[2023-10-10 12:34:58] [ERROR] This is an error message.
