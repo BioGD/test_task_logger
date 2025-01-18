@@ -32,6 +32,7 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/BioGD/test_task_logger.git
+   cd test_task_logger
    cd log
    ```
 
